@@ -27,7 +27,7 @@
     "category": 'French Localization',
     'author': u'Numérigraphe,Odoo Community Association (OCA)',
     'license': 'AGPL-3',
-    'depends': ['l10n_fr', 'account'],
+    'depends': ['l10n_fr'],
     # account is required only for the inherit of the partner form view
     # l10n_fr is required because we re-define the siret field on res.company
     'data': [
